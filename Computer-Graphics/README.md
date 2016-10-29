@@ -1,2 +1,2 @@
-- This folder contains project of the course Computer Graphics
+- This folder contains a project as a partial fulfillment for the subject of Computer Graphics under the degree of Bachelors of Engineering in Computers.
 - Code Authors: Kiner B. Shah, Darshan P. Shah
