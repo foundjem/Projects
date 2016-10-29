@@ -1,0 +1,2 @@
+- This folder contains project of the course Computer Graphics
+- Code Authors: Kiner B. Shah, Darshan P. Shah
