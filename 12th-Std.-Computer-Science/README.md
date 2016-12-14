@@ -1,2 +1,2 @@
 - This folder contains a project as a partial fulfillment for the subject of Computer Science.
-- Author: Kiner B. Shah
+- Developer: Kiner B. Shah
