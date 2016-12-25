@@ -1,4 +1,4 @@
-This folder contains two projects as a partial fulfillment for the subject of Web Technology under the degree of Bachelors of Engineering in Computers.
+This folder contains two projects as a partial fulfillment for the subject of Web Technology under the degree of Bachelors of Engineering in Computers. Both the projects use HTML & CSS for designing and JavaScript as the front-end technology.
 
 First project is titled as KD. This project is a website for an anonymous Agro-based company. The website includes features like,
   - Login and Registration
