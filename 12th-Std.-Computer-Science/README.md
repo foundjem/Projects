@@ -8,4 +8,4 @@
 
 **cs project.docx**: This file contains the document submitted to the concerned organization. This document is not of any importance w.r.t. the development code of this project. Although it may contain some screenshots of the project.
 
-**MEDISTORE.CPP**: This is the actual source code file.
+**MEDISTORE.cpp**: This is the actual source code file.
